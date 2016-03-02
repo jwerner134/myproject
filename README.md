@@ -1,3 +1,3 @@
 # Analysisl of GapMinder data
 
-My project for MIC
+My project for MICBIOL 612.1
